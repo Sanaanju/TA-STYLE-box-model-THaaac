@@ -1,0 +1,43 @@
+body {
+
+}
+.{
+    margin: 1px;
+    padding: 1px;
+    border: 2px;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+{
+    display: block;
+}
+body {
+    line-height: 2;
+}
+{
+    list-style: none;
+}
+{
+    quotes: none;
+}
+{
+    ::content: '';
+    ::content: none;
+}
+h1 {
+    border-collapse: collapse;
+    border-spacing: 0;
+
+
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: lawngreen;
+    border: 20px solid black;
+    display: inline-block;
+    margin: 50px;
+    padding:3px solid green;
+}
+}
