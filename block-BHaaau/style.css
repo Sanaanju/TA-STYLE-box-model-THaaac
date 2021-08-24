@@ -32,12 +32,27 @@ h1 {
 
 }
 .box {
-    width: 200px;
-    height: 200px;
-    background-color: lawngreen;
-    border: 20px solid black;
-    display: inline-block;
+    width: 600px;
+    height: 180;
+    background-color: grey ;
+    border: 1px;
+    display: inline;
+    padding: 40px 50px;
     margin: 50px;
-    padding:3px solid green;
 }
+h2 {
+    border-collapse: collapse;
+    border-spacing: 4px;
 }
+{
+    width: 180px;
+    height: 100px;
+    background-color: thistle;
+    border-width: 1px;
+    margin: 10px;
+}
+h3 {
+   border-width: 1px;
+}
+
+
